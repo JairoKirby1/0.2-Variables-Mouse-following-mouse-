@@ -7,7 +7,7 @@ function setup() {
   createCanvas(400, 400);
 
   // Step 3b: assign a color using the color function
-  backgroundColor = color(45, 70, 40);
+  backgroundColor = color(70, 50, 10);
 }
 
 function draw() {
